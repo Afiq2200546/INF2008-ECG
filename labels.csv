@@ -1,0 +1,449 @@
+,patient,original_file,diagonsis
+0,1,s0010_re.csv,Myocardial Infarction
+1,1,s0014lre.csv,Myocardial Infarction
+2,1,s0016lre.csv,Myocardial Infarction
+3,2,s0015lre.csv,Myocardial Infarction
+4,3,s0017lre.csv,Myocardial Infarction
+5,4,s0020are.csv,Myocardial Infarction
+6,4,s0020bre.csv,Myocardial Infarction
+7,5,s0021are.csv,Myocardial Infarction
+8,5,s0021bre.csv,Myocardial Infarction
+9,5,s0025lre.csv,Myocardial Infarction
+10,5,s0031lre.csv,Myocardial Infarction
+11,5,s0101lre.csv,Myocardial Infarction
+12,6,s0022lre.csv,Myocardial Infarction
+13,6,s0027lre.csv,Myocardial Infarction
+14,6,s0064lre.csv,Myocardial Infarction
+15,7,s0026lre.csv,Myocardial Infarction
+16,7,s0029lre.csv,Myocardial Infarction
+17,7,s0038lre.csv,Myocardial Infarction
+18,7,s0078lre.csv,Myocardial Infarction
+19,8,s0028lre.csv,Myocardial Infarction
+20,8,s0037lre.csv,Myocardial Infarction
+21,8,s0068lre.csv,Myocardial Infarction
+22,9,s0035_re.csv,Myocardial Infarction
+23,10,s0036lre.csv,Myocardial Infarction
+24,10,s0042lre.csv,Myocardial Infarction
+25,10,s0061lre.csv,Myocardial Infarction
+26,11,s0039lre.csv,Myocardial Infarction
+27,11,s0044lre.csv,Myocardial Infarction
+28,11,s0049lre.csv,Myocardial Infarction
+29,11,s0067lre.csv,Myocardial Infarction
+30,12,s0043lre.csv,Myocardial Infarction
+31,12,s0050lre.csv,Myocardial Infarction
+32,13,s0045lre.csv,Myocardial Infarction
+33,13,s0051lre.csv,Myocardial Infarction
+34,13,s0072lre.csv,Myocardial Infarction
+35,14,s0046lre.csv,Myocardial Infarction
+36,14,s0056lre.csv,Myocardial Infarction
+37,14,s0071lre.csv,Myocardial Infarction
+38,15,s0047lre.csv,Myocardial Infarction
+39,15,s0057lre.csv,Myocardial Infarction
+40,15,s0152lre.csv,Myocardial Infarction
+41,16,s0052lre.csv,Myocardial Infarction
+42,16,s0060lre.csv,Myocardial Infarction
+43,16,s0076lre.csv,Myocardial Infarction
+44,17,s0053lre.csv,Myocardial Infarction
+45,17,s0055lre.csv,Myocardial Infarction
+46,17,s0063lre.csv,Myocardial Infarction
+47,17,s0075lre.csv,Myocardial Infarction
+48,18,s0054lre.csv,Myocardial Infarction
+49,18,s0059lre.csv,Myocardial Infarction
+50,18,s0082lre.csv,Myocardial Infarction
+51,19,s0058lre.csv,Myocardial Infarction
+52,19,s0070lre.csv,Myocardial Infarction
+53,19,s0077lre.csv,Myocardial Infarction
+54,20,s0062lre.csv,Myocardial Infarction
+55,20,s0069lre.csv,Myocardial Infarction
+56,20,s0079lre.csv,Myocardial Infarction
+57,21,s0065lre.csv,Myocardial Infarction
+58,21,s0073lre.csv,Myocardial Infarction
+59,21,s0097lre.csv,Myocardial Infarction
+60,22,s0066lre.csv,Myocardial Infarction
+61,22,s0074lre.csv,Myocardial Infarction
+62,22,s0149lre.csv,Myocardial Infarction
+63,23,s0080lre.csv,Myocardial Infarction
+64,23,s0081lre.csv,Myocardial Infarction
+65,23,s0085lre.csv,Myocardial Infarction
+66,23,s0103lre.csv,Myocardial Infarction
+67,24,s0083lre.csv,Myocardial Infarction
+68,24,s0084lre.csv,Myocardial Infarction
+69,24,s0086lre.csv,Myocardial Infarction
+70,24,s0094lre.csv,Myocardial Infarction
+71,25,s0087lre.csv,Myocardial Infarction
+72,25,s0091lre.csv,Myocardial Infarction
+73,25,s0150lre.csv,Myocardial Infarction
+74,26,s0088lre.csv,Myocardial Infarction
+75,26,s0095lre.csv,Myocardial Infarction
+76,27,s0089lre.csv,Myocardial Infarction
+77,27,s0096lre.csv,Myocardial Infarction
+78,27,s0151lre.csv,Myocardial Infarction
+79,28,s0090lre.csv,Myocardial Infarction
+80,28,s0093lre.csv,Myocardial Infarction
+81,28,s0108lre.csv,Myocardial Infarction
+82,29,s0092lre.csv,Myocardial Infarction
+83,29,s0098lre.csv,Myocardial Infarction
+84,29,s0122lre.csv,Myocardial Infarction
+85,30,s0099lre.csv,Myocardial Infarction
+86,30,s0107lre.csv,Myocardial Infarction
+87,30,s0117lre.csv,Myocardial Infarction
+88,30,s0153lre.csv,Myocardial Infarction
+89,31,s0100lre.csv,Myocardial Infarction
+90,31,s0104lre.csv,Myocardial Infarction
+91,31,s0114lre.csv,Myocardial Infarction
+92,31,s0127lre.csv,Myocardial Infarction
+93,32,s0102lre.csv,Myocardial Infarction
+94,32,s0106lre.csv,Myocardial Infarction
+95,32,s0115lre.csv,Myocardial Infarction
+96,32,s0165lre.csv,Myocardial Infarction
+97,33,s0105lre.csv,Myocardial Infarction
+98,33,s0113lre.csv,Myocardial Infarction
+99,33,s0121lre.csv,Myocardial Infarction
+100,33,s0157lre.csv,Myocardial Infarction
+101,34,s0109lre.csv,Myocardial Infarction
+102,34,s0118lre.csv,Myocardial Infarction
+103,34,s0123lre.csv,Myocardial Infarction
+104,34,s0158lre.csv,Myocardial Infarction
+105,35,s0110lre.csv,Myocardial Infarction
+106,35,s0119lre.csv,Myocardial Infarction
+107,35,s0124lre.csv,Myocardial Infarction
+108,35,s0145lre.csv,Myocardial Infarction
+109,36,s0111lre.csv,Myocardial Infarction
+110,36,s0116lre.csv,Myocardial Infarction
+111,36,s0126lre.csv,Myocardial Infarction
+112,37,s0112lre.csv,Myocardial Infarction
+113,37,s0120lre.csv,Myocardial Infarction
+114,38,s0125lre.csv,Myocardial Infarction
+115,38,s0128lre.csv,Myocardial Infarction
+116,38,s0162lre.csv,Myocardial Infarction
+117,39,s0129lre.csv,Myocardial Infarction
+118,39,s0134lre.csv,Myocardial Infarction
+119,39,s0164lre.csv,Myocardial Infarction
+120,40,s0130lre.csv,Myocardial Infarction
+121,40,s0131lre.csv,Myocardial Infarction
+122,40,s0133lre.csv,Myocardial Infarction
+123,40,s0219lre.csv,Myocardial Infarction
+124,41,s0132lre.csv,Myocardial Infarction
+125,41,s0136lre.csv,Myocardial Infarction
+126,41,s0138lre.csv,Myocardial Infarction
+127,41,s0276lre.csv,Myocardial Infarction
+128,42,s0135lre.csv,Myocardial Infarction
+129,42,s0137lre.csv,Myocardial Infarction
+130,42,s0140lre.csv,Myocardial Infarction
+131,42,s0347lre.csv,Myocardial Infarction
+132,43,s0141lre.csv,Myocardial Infarction
+133,43,s0144lre.csv,Myocardial Infarction
+134,43,s0278lre.csv,Myocardial Infarction
+135,44,s0142lre.csv,Myocardial Infarction
+136,44,s0143lre.csv,Myocardial Infarction
+137,44,s0146lre.csv,Myocardial Infarction
+138,44,s0159lre.csv,Myocardial Infarction
+139,45,s0147lre.csv,Myocardial Infarction
+140,45,s0148lre.csv,Myocardial Infarction
+141,45,s0155lre.csv,Myocardial Infarction
+142,45,s0217lre.csv,Myocardial Infarction
+143,46,s0156lre.csv,Myocardial Infarction
+144,46,s0161lre.csv,Myocardial Infarction
+145,46,s0168lre.csv,Myocardial Infarction
+146,46,s0184lre.csv,Myocardial Infarction
+147,47,s0160lre.csv,Myocardial Infarction
+148,47,s0163lre.csv,Myocardial Infarction
+149,47,s0167lre.csv,Myocardial Infarction
+150,48,s0171lre.csv,Myocardial Infarction
+151,48,s0172lre.csv,Myocardial Infarction
+152,48,s0180lre.csv,Myocardial Infarction
+153,48,s0277lre.csv,Myocardial Infarction
+154,49,s0173lre.csv,Myocardial Infarction
+155,49,s0178lre.csv,Myocardial Infarction
+156,49,s0186lre.csv,Myocardial Infarction
+157,49,s0314lre.csv,Myocardial Infarction
+158,50,s0174lre.csv,Myocardial Infarction
+159,50,s0177lre.csv,Myocardial Infarction
+160,50,s0185lre.csv,Myocardial Infarction
+161,50,s0215lre.csv,Myocardial Infarction
+162,51,s0179lre.csv,Myocardial Infarction
+163,51,s0181lre.csv,Myocardial Infarction
+164,51,s0187lre.csv,Myocardial Infarction
+165,51,s0213lre.csv,Myocardial Infarction
+166,52,s0190lre.csv,Myocardial Infarction
+167,53,s0191lre.csv,Myocardial Infarction
+168,54,s0192lre.csv,Myocardial Infarction
+169,54,s0195lre.csv,Myocardial Infarction
+170,54,s0197lre.csv,Myocardial Infarction
+171,54,s0218lre.csv,Myocardial Infarction
+172,55,s0194lre.csv,Myocardial Infarction
+173,56,s0196lre.csv,Myocardial Infarction
+174,57,s0198lre.csv,Myocardial Infarction
+175,58,s0216lre.csv,Myocardial Infarction
+176,59,s0208lre.csv,Myocardial Infarction
+177,60,s0209lre.csv,Myocardial Infarction
+178,61,s0210lre.csv,Myocardial Infarction
+179,62,s0212lre.csv,Myocardial Infarction
+180,63,s0214lre.csv,Myocardial Infarction
+181,64,s0220lre.csv,Myocardial Infarction
+182,65,s0221lre.csv,Myocardial Infarction
+183,65,s0226lre.csv,Myocardial Infarction
+184,65,s0229lre.csv,Myocardial Infarction
+185,65,s0282lre.csv,Myocardial Infarction
+186,66,s0225lre.csv,Myocardial Infarction
+187,66,s0231lre.csv,Myocardial Infarction
+188,66,s0280lre.csv,Myocardial Infarction
+189,67,s0227lre.csv,Myocardial Infarction
+190,67,s0230lre.csv,Myocardial Infarction
+191,67,s0283lre.csv,Myocardial Infarction
+192,68,s0228lre.csv,Myocardial Infarction
+193,69,s0232lre.csv,Myocardial Infarction
+194,69,s0233lre.csv,Myocardial Infarction
+195,69,s0234lre.csv,Myocardial Infarction
+196,69,s0284lre.csv,Myocardial Infarction
+197,70,s0235lre.csv,Myocardial Infarction
+198,71,s0236lre.csv,Myocardial Infarction
+199,72,s0237lre.csv,Myocardial Infarction
+200,72,s0240lre.csv,Myocardial Infarction
+201,72,s0244lre.csv,Myocardial Infarction
+202,72,s0318lre.csv,Myocardial Infarction
+203,73,s0238lre.csv,Myocardial Infarction
+204,73,s0243lre.csv,Myocardial Infarction
+205,73,s0249lre.csv,Myocardial Infarction
+206,73,s0252lre.csv,Myocardial Infarction
+207,74,s0239lre.csv,Myocardial Infarction
+208,74,s0241lre.csv,Myocardial Infarction
+209,74,s0245lre.csv,Myocardial Infarction
+210,74,s0406lre.csv,Myocardial Infarction
+211,75,s0242lre.csv,Myocardial Infarction
+212,75,s0246lre.csv,Myocardial Infarction
+213,75,s0248lre.csv,Myocardial Infarction
+214,75,s0327lre.csv,Myocardial Infarction
+215,76,s0247lre.csv,Myocardial Infarction
+216,76,s0250lre.csv,Myocardial Infarction
+217,76,s0253lre.csv,Myocardial Infarction
+218,76,s0319lre.csv,Myocardial Infarction
+219,77,s0251lre.csv,Myocardial Infarction
+220,77,s0254lre.csv,Myocardial Infarction
+221,77,s0258lre.csv,Myocardial Infarction
+222,77,s0285lre.csv,Myocardial Infarction
+223,78,s0255lre.csv,Myocardial Infarction
+224,78,s0259lre.csv,Myocardial Infarction
+225,78,s0262lre.csv,Myocardial Infarction
+226,78,s0317lre.csv,Myocardial Infarction
+227,79,s0256lre.csv,Myocardial Infarction
+228,79,s0257lre.csv,Myocardial Infarction
+229,79,s0263lre.csv,Myocardial Infarction
+230,79,s0269lre.csv,Myocardial Infarction
+231,80,s0260lre.csv,Myocardial Infarction
+232,80,s0261lre.csv,Myocardial Infarction
+233,80,s0265lre.csv,Myocardial Infarction
+234,80,s0315lre.csv,Myocardial Infarction
+235,81,s0264lre.csv,Myocardial Infarction
+236,81,s0266lre.csv,Myocardial Infarction
+237,81,s0270lre.csv,Myocardial Infarction
+238,81,s0346lre.csv,Myocardial Infarction
+239,82,s0267lre.csv,Myocardial Infarction
+240,82,s0271lre.csv,Myocardial Infarction
+241,82,s0279lre.csv,Myocardial Infarction
+242,82,s0320lre.csv,Myocardial Infarction
+243,83,s0268lre.csv,Myocardial Infarction
+244,83,s0272lre.csv,Myocardial Infarction
+245,83,s0286lre.csv,Myocardial Infarction
+246,83,s0290lre.csv,Myocardial Infarction
+247,84,s0281lre.csv,Myocardial Infarction
+248,84,s0288lre.csv,Myocardial Infarction
+249,84,s0289lre.csv,Myocardial Infarction
+250,84,s0313lre.csv,Myocardial Infarction
+251,85,s0296lre.csv,Myocardial Infarction
+252,85,s0297lre.csv,Myocardial Infarction
+253,85,s0298lre.csv,Myocardial Infarction
+254,85,s0345lre.csv,Myocardial Infarction
+255,86,s0316lre.csv,Myocardial Infarction
+256,87,s0321lre.csv,Myocardial Infarction
+257,87,s0326lre.csv,Myocardial Infarction
+258,87,s0330lre.csv,Myocardial Infarction
+259,88,s0339lre.csv,Myocardial Infarction
+260,88,s0343lre.csv,Myocardial Infarction
+261,88,s0352lre.csv,Myocardial Infarction
+262,88,s0413lre.csv,Myocardial Infarction
+263,89,s0344lre.csv,Myocardial Infarction
+264,89,s0355lre.csv,Myocardial Infarction
+265,89,s0359lre.csv,Myocardial Infarction
+266,89,s0372lre.csv,Myocardial Infarction
+267,90,s0348lre.csv,Myocardial Infarction
+268,90,s0356lre.csv,Myocardial Infarction
+269,90,s0360lre.csv,Myocardial Infarction
+270,90,s0418lre.csv,Myocardial Infarction
+271,91,s0353lre.csv,Myocardial Infarction
+272,91,s0357lre.csv,Myocardial Infarction
+273,91,s0361lre.csv,Myocardial Infarction
+274,91,s0408lre.csv,Myocardial Infarction
+275,92,s0354lre.csv,Myocardial Infarction
+276,92,s0358lre.csv,Myocardial Infarction
+277,92,s0362lre.csv,Myocardial Infarction
+278,92,s0411lre.csv,Myocardial Infarction
+279,93,s0367lre.csv,Myocardial Infarction
+280,93,s0371lre.csv,Myocardial Infarction
+281,93,s0375lre.csv,Myocardial Infarction
+282,93,s0378lre.csv,Myocardial Infarction
+283,93,s0396lre.csv,Myocardial Infarction
+284,94,s0368lre.csv,Myocardial Infarction
+285,94,s0370lre.csv,Myocardial Infarction
+286,94,s0376lre.csv,Myocardial Infarction
+287,94,s0412lre.csv,Myocardial Infarction
+288,95,s0369lre.csv,Myocardial Infarction
+289,95,s0373lre.csv,Myocardial Infarction
+290,95,s0377lre.csv,Myocardial Infarction
+291,95,s0417lre.csv,Myocardial Infarction
+292,96,s0379lre.csv,Myocardial Infarction
+293,96,s0381lre.csv,Myocardial Infarction
+294,96,s0385lre.csv,Myocardial Infarction
+295,96,s0395lre.csv,Myocardial Infarction
+296,97,s0380lre.csv,Myocardial Infarction
+297,97,s0382lre.csv,Myocardial Infarction
+298,97,s0384lre.csv,Myocardial Infarction
+299,97,s0394lre.csv,Myocardial Infarction
+300,98,s0386lre.csv,Myocardial Infarction
+301,98,s0389lre.csv,Myocardial Infarction
+302,98,s0398lre.csv,Myocardial Infarction
+303,98,s0409lre.csv,Myocardial Infarction
+304,99,s0387lre.csv,Myocardial Infarction
+305,99,s0388lre.csv,Myocardial Infarction
+306,99,s0397lre.csv,Myocardial Infarction
+307,99,s0419lre.csv,Myocardial Infarction
+308,100,s0399lre.csv,Myocardial Infarction
+309,100,s0401lre.csv,Myocardial Infarction
+310,100,s0407lre.csv,Myocardial Infarction
+311,101,s0400lre.csv,Myocardial Infarction
+312,101,s0410lre.csv,Myocardial Infarction
+313,101,s0414lre.csv,Myocardial Infarction
+314,102,s0416lre.csv,Myocardial Infarction
+315,103,s0332lre.csv,Myocardial Infarction
+316,104,s0306lre.csv,Healthy
+317,105,s0303lre.csv,Healthy
+318,106,s0013_re.csv,Myocardial Infarction
+319,107,s0203_re.csv,Myocardial Infarction
+320,108,s0302lre.csv,Healthy
+321,109,s0291lre.csv,Healthy
+322,109,s0292lre.csv,Healthy
+323,110,s0331lre.csv,Myocardial Infarction
+324,111,s0311lre.csv,Healthy
+325,112,s0312lre.csv,Healthy
+326,113,s0182_re.csv,Myocardial Infarction
+327,114,s0273lre.csv,Healthy
+328,115,s0334lre.csv,Myocardial Infarction
+329,116,s0005_re.csv,Myocardial Infarction
+330,117,s0223_re.csv,Myocardial Infarction
+331,118,s0019_re.csv,Myocardial Infarction
+332,119,s0307lre.csv,Myocardial Infarction
+333,120,s0351lre.csv,Myocardial Infarction
+334,121,s0201_re.csv,Myocardial Infarction
+335,122,s0335lre.csv,Myocardial Infarction
+336,123,s0202are.csv,Myocardial Infarction
+337,123,s0202bre.csv,Myocardial Infarction
+338,124,s0287lre.csv,Healthy
+339,125,s0004_re.csv,Myocardial Infarction
+340,126,s0301lre.csv,Healthy
+341,127,s0299lre.csv,Healthy
+342,128,s0294lre.csv,Myocardial Infarction
+343,128,s0295lre.csv,Myocardial Infarction
+344,129,s0222_re.csv,Myocardial Infarction
+345,130,s0034_re.csv,Myocardial Infarction
+346,131,s0322lre.csv,Healthy
+347,131,s0323lre.csv,Healthy
+348,132,s0275lre.csv,Healthy
+349,133,s0328lre.csv,Healthy
+350,133,s0329lre.csv,Healthy
+351,134,s0274lre.csv,Healthy
+352,135,s0304lre.csv,Healthy
+353,136,s0305lre.csv,Healthy
+354,137,s0300lre.csv,Healthy
+355,137,s0324lre.csv,Healthy
+356,137,s0325lre.csv,Healthy
+357,138,s0374lre.csv,Healthy
+358,138,s0475_re.csv,Healthy
+359,138,s0476_re.csv,Healthy
+360,138,s0477_re.csv,Healthy
+361,138,s0490_re.csv,Healthy
+362,138,s0545_re.csv,Healthy
+363,138,s0561_re.csv,Healthy
+364,139,s0308lre.csv,Healthy
+365,140,s0175_re.csv,Myocardial Infarction
+366,141,s0363lre.csv,Healthy
+367,142,s0336lre.csv,Healthy
+368,143,s0309lre.csv,Myocardial Infarction
+369,144,s0008_re.csv,Myocardial Infarction
+370,145,s0337lre.csv,Myocardial Infarction
+371,146,s0350lre.csv,Myocardial Infarction
+372,146,s0403lre.csv,Myocardial Infarction
+373,147,s0402lre.csv,Healthy
+374,147,s0415lre.csv,Healthy
+375,148,s0426_re.csv,Myocardial Infarction
+376,149,s0428_re.csv,Myocardial Infarction
+377,150,s0433_re.csv,Myocardial Infarction
+378,151,s0436_re.csv,Healthy
+379,152,s0445_re.csv,Myocardial Infarction
+380,152,s0446_re.csv,Myocardial Infarction
+381,153,s0449_re.csv,Myocardial Infarction
+382,154,s0452_re.csv,Healthy
+383,154,s0453_re.csv,Healthy
+384,155,s0454_re.csv,Myocardial Infarction
+385,156,s0455_re.csv,Myocardial Infarction
+386,157,s0457_re.csv,Healthy
+387,157,s0458_re.csv,Healthy
+388,157,s0459_re.csv,Healthy
+389,157,s0482_re.csv,Healthy
+390,157,s0483_re.csv,Healthy
+391,158,s0460_re.csv,Healthy
+392,159,s0461_re.csv,Healthy
+393,160,s0462_re.csv,Healthy
+394,160,s0463_re.csv,Healthy
+395,160,s0464_re.csv,Healthy
+396,161,s0465_re.csv,Healthy
+397,162,s0466_re.csv,Healthy
+398,163,s0467_re.csv,Healthy
+399,164,s0468_re.csv,Healthy
+400,165,s0469_re.csv,Healthy
+401,165,s0470_re.csv,Healthy
+402,166,s0471_re.csv,Healthy
+403,167,s0472_re.csv,Healthy
+404,168,s0473_re.csv,Healthy
+405,169,s0474_re.csv,Healthy
+406,169,s0480_re.csv,Healthy
+407,170,s0478_re.csv,Healthy
+408,171,s0479_re.csv,Healthy
+409,172,s0481_re.csv,Healthy
+410,173,s0486_re.csv,Healthy
+411,173,s0503_re.csv,Healthy
+412,173,s0506_re.csv,Healthy
+413,174,s0487_re.csv,Healthy
+414,175,s0491_re.csv,Healthy
+415,176,s0495_re.csv,Myocardial Infarction
+416,177,s0496_re.csv,Healthy
+417,178,s0497_re.csv,Myocardial Infarction
+418,179,s0499_re.csv,Healthy
+419,180,s0500_re.csv,Healthy
+420,181,s0501_re.csv,Myocardial Infarction
+421,182,s0502_re.csv,Healthy
+422,183,s0504_re.csv,Healthy
+423,184,s0505_re.csv,Myocardial Infarction
+424,185,s0507_re.csv,Myocardial Infarction
+425,186,s0511_re.csv,Myocardial Infarction
+426,187,s0512_re.csv,Myocardial Infarction
+427,188,s0526_re.csv,Healthy
+428,189,s0527_re.csv,Healthy
+429,190,s0531_re.csv,Healthy
+430,190,s0532_re.csv,Healthy
+431,190,s0533_re.csv,Healthy
+432,190,s0534_re.csv,Healthy
+433,191,s0535_re.csv,Myocardial Infarction
+434,192,s0539_re.csv,Myocardial Infarction
+435,193,s0542_re.csv,Myocardial Infarction
+436,194,s0543_re.csv,Healthy
+437,194,s0551_re.csv,Healthy
+438,194,s0552_re.csv,Healthy
+439,195,s0547_re.csv,Myocardial Infarction
+440,195,s0548_re.csv,Myocardial Infarction
+441,196,s0553_re.csv,Myocardial Infarction
+442,197,s0554_re.csv,Myocardial Infarction
+443,198,s0555_re.csv,Myocardial Infarction
+444,198,s0556_re.csv,Myocardial Infarction
+445,199,s0553_re.csv,Myocardial Infarction
+446,199,s0558_re.csv,Myocardial Infarction
+447,200,s0559_re.csv,Myocardial Infarction
