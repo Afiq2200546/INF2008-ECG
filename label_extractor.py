@@ -32,7 +32,7 @@ def process_ptb_directory(ptb_dir, output_file):
         writer.writerow(["patient", "header file", "diagnosis"])
 
         for patient, header, reason in all_data:
-            if diagnosis_counts[reason] > 1 and reason.lower() != "n/a":
+            if diagnosis_counts[reason] > 2 and reason.lower() != "n/a":
                 writer.writerow([patient, header, reason])
 
 
