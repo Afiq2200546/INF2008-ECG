@@ -1,4 +1,4 @@
-Folder Name,Header File,Reason for Admission
+patient,Header File,diagnosis
 patient001,s0010_re,Myocardial infarction
 patient001,s0014lre,Myocardial infarction
 patient001,s0016lre,Myocardial infarction
@@ -327,37 +327,26 @@ patient112,s0169_re,Dysrhythmia
 patient113,s0018cre,Dysrhythmia
 patient113,s0018lre,Dysrhythmia
 patient114,s0012_re,Valvular heart disease
-patient115,s0023_re,Heart failure (NYHA 2)
 patient116,s0302lre,Healthy control
 patient117,s0291lre,Healthy control
 patient117,s0292lre,Healthy control
-patient118,s0183_re,Heart failure (NYHA 3)
-patient119,s0001_re,n/a
 patient120,s0331lre,Myocardial infarction
 patient121,s0311lre,Healthy control
 patient122,s0312lre,Healthy control
-patient123,s0224_re,Heart failure (NYHA 4)
-patient125,s0006_re,n/a
-patient126,s0154_re,Palpitation
 patient127,s0342lre,Cardiomyopathy
 patient127,s0383lre,Cardiomyopathy
 patient128,s0182_re,Myocardial infarction
 patient129,s0189_re,Cardiomyopathy
-patient130,s0166_re,Stable angina
 patient131,s0273lre,Healthy control
 patient133,s0393lre,Dysrhythmia
 patient135,s0334lre,Myocardial infarction
-patient136,s0205_re,n/a
 patient137,s0392lre,Cardiomyopathy
 patient138,s0005_re,Myocardial infarction
 patient139,s0223_re,Myocardial infarction
 patient140,s0019_re,Myocardial infarction
 patient141,s0307lre,Myocardial infarction
 patient142,s0351lre,Myocardial infarction
-patient143,s0333lre,n/a
-patient144,s0341lre,n/a
 patient145,s0201_re,Myocardial infarction
-patient146,s0007_re,n/a
 patient147,s0211_re,Dysrhythmia
 patient148,s0335lre,Myocardial infarction
 patient149,s0202are,Myocardial infarction
@@ -366,7 +355,6 @@ patient150,s0287lre,Healthy control
 patient151,s0206_re,Dysrhythmia
 patient152,s0004_re,Myocardial infarction
 patient153,s0391lre,Dysrhythmia
-patient154,s0170_re,n/a
 patient155,s0301lre,Healthy control
 patient156,s0299lre,Healthy control
 patient157,s0338lre,Dysrhythmia
@@ -374,10 +362,7 @@ patient158,s0294lre,Myocardial infarction
 patient158,s0295lre,Myocardial infarction
 patient159,s0390lre,Hypertrophy
 patient160,s0222_re,Myocardial infarction
-patient162,s0193_re,n/a
 patient163,s0034_re,Myocardial infarction
-patient164,s0024are,n/a
-patient164,s0024bre,n/a
 patient165,s0322lre,Healthy control
 patient165,s0323lre,Healthy control
 patient166,s0275lre,Healthy control
@@ -394,10 +379,7 @@ patient174,s0300lre,Healthy control
 patient174,s0324lre,Healthy control
 patient174,s0325lre,Healthy control
 patient175,s0009_re,Bundle branch block
-patient176,s0188_re,n/a
 patient177,s0366lre,Dysrhythmia
-patient178,s0011_re,n/a
-patient179,s0176_re,n/a
 patient180,s0374lre,Healthy control
 patient180,s0475_re,Healthy control
 patient180,s0476_re,Healthy control
@@ -405,30 +387,20 @@ patient180,s0477_re,Healthy control
 patient180,s0490_re,Healthy control
 patient180,s0545_re,Healthy control
 patient180,s0561_re,Healthy control
-patient181,s0204are,n/a
-patient181,s0204bre,n/a
 patient182,s0308lre,Healthy control
 patient183,s0175_re,Myocardial infarction
 patient184,s0363lre,Healthy control
 patient185,s0336lre,Healthy control
-patient186,s0293lre,n/a
 patient187,s0207_re,Dysrhythmia
 patient188,s0365lre,Valvular heart disease
 patient189,s0309lre,Myocardial infarction
-patient190,s0040_re,n/a
-patient190,s0041_re,n/a
-patient191,s0340lre,Stable angina
-patient192,s0048_re,n/a
 patient193,s0008_re,Myocardial infarction
-patient194,s0310lre,n/a
 patient195,s0337lre,Myocardial infarction
-patient196,s0002_re,Unstable angina
 patient197,s0350lre,Myocardial infarction
 patient197,s0403lre,Myocardial infarction
 patient198,s0402lre,Healthy control
 patient198,s0415lre,Healthy control
 patient199,s0404lre,Bundle branch block
-patient200,s0405lre,n/a
 patient201,s0420_re,Cardiomyopathy
 patient201,s0423_re,Cardiomyopathy
 patient202,s0421_re,Bundle branch block
@@ -518,24 +490,18 @@ patient271,s0509_re,Myocarditis
 patient272,s0510_re,Myocarditis
 patient273,s0511_re,Myocardial infarction
 patient274,s0512_re,Myocardial infarction
-patient275,s0513_re,n/a
 patient276,s0526_re,Healthy control
 patient277,s0527_re,Healthy control
-patient278,s0528_re,n/a
-patient278,s0529_re,n/a
-patient278,s0530_re,n/a
 patient279,s0531_re,Healthy control
 patient279,s0532_re,Healthy control
 patient279,s0533_re,Healthy control
 patient279,s0534_re,Healthy control
 patient280,s0535_re,Myocardial infarction
-patient281,s0537_re,n/a
 patient282,s0539_re,Myocardial infarction
 patient283,s0542_re,Myocardial infarction
 patient284,s0543_re,Healthy control
 patient284,s0551_re,Healthy control
 patient284,s0552_re,Healthy control
-patient285,s0544_re,n/a
 patient286,s0546_re,Dysrhythmia
 patient287,s0547_re,Myocardial infarction
 patient287,s0548_re,Myocardial infarction
